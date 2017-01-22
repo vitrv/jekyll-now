@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #a10000;
+  color: $darkerGray;
   font-weight: bold;
 
   line-height: 1.7;
@@ -57,6 +57,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+  color: #a10000; 	 
 }
 
 h4 {
